@@ -47,3 +47,7 @@ For any questions or feedback, feel free to reach out to me at `{email}`
 ## Project Status 🚀
 
 Current status on the project.
+
+## README Template Author
+
+Readme template created by [Alexander Afoko Jnr.](https://github.com/BeanyTheCoder)
